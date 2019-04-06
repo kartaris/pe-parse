@@ -6,6 +6,7 @@
 #
 
 QT       -= core gui
+CONFIG += c++17
 
 TARGET = pe-parser-library
 TEMPLATE = lib

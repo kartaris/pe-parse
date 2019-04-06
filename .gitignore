@@ -1,4 +1,4 @@
-Makefile
+*Makefile*
 cmake_install.cmake
 dump-prog/dump-prog
 *.swp
@@ -18,3 +18,5 @@ examples_build
 *.o
 
 *.user
+
+*.Debug
