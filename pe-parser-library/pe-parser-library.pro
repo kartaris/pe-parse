@@ -11,6 +11,9 @@ CONFIG += c++17
 TARGET = pe-parser-library
 TEMPLATE = lib
 
+target.path = /usr/lib64/
+INSTALLS += target
+
 DEFINES += PEPARSER_LIBRARY
 
 # The following define makes your compiler emit warnings if you use
